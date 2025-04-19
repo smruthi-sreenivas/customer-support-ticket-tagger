@@ -8,8 +8,9 @@ Problem Statement:
 Efficiently managing customer support tickets is critical for delivering excellent customer service. However, manually tagging tickets based on their content is time-consuming, especially when handling high volumes of tickets.
 
 This inefficiency leads to delayed ticket resolution, customer dissatisfaction, and challenges in prioritizing and routing tickets to the appropriate teams.
-
 To automate the process of tagging customer support tickets using a Large Language Model (LLM) via text classification, the system should accurately classify tickets into predefined categories based on their content, such as Technical Support, Billing and Payments, IT support etc.
+
+
 ---
 
 ## 🧠 Project Type
